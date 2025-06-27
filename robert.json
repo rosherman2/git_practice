@@ -1,6 +1,6 @@
 
 {
     "aa":"bb",
-    "bugfixed": "critical"
-
+    "bugfixed": "critical",
+    "feature": "cool feature"
 }
