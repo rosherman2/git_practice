@@ -5,3 +5,4 @@ Hey, we fixed the bug!!!
 Robert2
 Robert: Added a very very very important change
 Robert: Added a very cool feature
+fix critical bug
